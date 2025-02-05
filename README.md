@@ -99,8 +99,5 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 - **Streamlit:** For the intuitive UI framework.
 - **LangChain Community:** For the `PDFPlumberLoader` and other helpful document processing tools.
 - **Community Libraries:** Including tools for web scraping and document parsing.
-```
 
----
 
-Feel free to modify any section to better match your project's specifics. Replace the demo video placeholder with your actual video link, and adjust the license section if needed.
