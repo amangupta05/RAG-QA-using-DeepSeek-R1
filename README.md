@@ -19,11 +19,14 @@ This project comprises three primary components:
 - **User Interface:**  
   An interactive Streamlit UI where users can upload a document (or input a URL), submit a question, and receive a context-aware answer.
 
-<!-- ## Demo Video
+ ## Demo Video
 
 Watch the demo video below to see **RAG-QA-using-DeepSeek-R1** in action:
+<video width="640" height="360" controls>
+  <source src="media/demo_video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID) -->
 
 ## Project Structure
 
