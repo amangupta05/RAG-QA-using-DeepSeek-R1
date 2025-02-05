@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # RAG-QA-using-DeepSeek-R1
 
 **RAG-QA-using-DeepSeek-R1** is a document-based question-answering system that leverages retrieval-augmented generation (RAG) powered by DeepSeek R1. It extracts and processes content from documents—via URLs or PDFs—to generate accurate, context-aware answers.
