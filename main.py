@@ -55,7 +55,7 @@ st.markdown(
 
 # ----------------- UI Header ----------------- #
 st.title("📘 RAG-QA-using-DeepSeek-R1")
-st.markdown("### Intelligent Document Assistant with Web-based Q/A")
+st.markdown("### Intelligent Document Assistant with pdf-based Q/A")
 st.markdown("---")
 
 # ----------------- File Upload ----------------- #
