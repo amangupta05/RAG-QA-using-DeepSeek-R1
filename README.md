@@ -22,10 +22,8 @@ This project comprises three primary components:
  ## Demo Video
 
 Watch the demo video below to see **RAG-QA-using-DeepSeek-R1** in action:
-<video width="640" height="360" controls>
-  <source src="media/demo_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Demo Video](https://img.youtube.com/vi/2cpR7W2UwKc/0.jpg)](https://youtu.be/2cpR7W2UwKc)
+
 
 
 ## Project Structure
